@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.nav-img img{
+    border-radius: 50px;
+}
+/* make header image responsive */
+.back-img{
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    min-height: 70vh;
+    border-radius: 0px;
+    margin-top: 54px;
+}
+
+.navbar #myMenu .custom-nav .nav-item a{
+    color: #ffffff;
+    right: 10px;
+}
+.navbar #myMenu .custom-nav .nav-item a:hover{
+    color: #ebdcdc;
+}
+/*
+.container .row .sub-img img{
+    height: 50px;
+    width: 50px;
+    border-radius: 26px;
+}
+*/
